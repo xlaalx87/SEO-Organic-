@@ -1,12 +1,12 @@
 # SEO-Organic-
 Brochure where I include all my tobacco selling websites for SEO and advertising.
 
-Blog static în română ("Ghidul Tutunului"): `index.html`, `despre.html`, 8 articole în `articole/`, stiluri în `css/style.css`, plus `sitemap.xml` și `robots.txt`. Conținut informativ, doar 18+.
+Blog static în română ("Ghidul Tutunului"): `index.html`, `despre.html`, 13 articole în `articole/`, stiluri în `css/style.css`, plus `sitemap.xml` și `robots.txt`. Conținut informativ, doar 18+.
 
 ## Structură
 - `index.html` — lista de articole; `despre.html` — cine operează blogul
 - `magazine.html` — pagina „Magazinele noastre” (singurul link din footer către magazine)
-- `articole/` — cele 8 articole; maximum un link către un magazin per articol, cu anchor descriptiv
+- `articole/` — cele 13 articole; maximum un link către un magazin per articol, cu anchor descriptiv
 - `css/style.css`, `sitemap.xml`, `robots.txt`; `.claude/agents/` — agenții folosiți pentru redactare și verificare
 
 ## Publicare pe GitHub Pages

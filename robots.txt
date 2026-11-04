@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xlaalx87.github.io/SEO-Organic-/sitemap.xml
